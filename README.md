@@ -29,17 +29,17 @@ pip install lxml
 
 input keywords:
 
-<img src="C:\Users\14780\AppData\Roaming\Typora\typora-user-images\image-20260203123546708.png" alt="image-20260203123546708" style="zoom:67%;" />
+<img src="./doc/img_1.png" alt="img_1" style="zoom:80%;" />
 
 input numbers of papers you want:
 
-<img src="C:\Users\14780\AppData\Roaming\Typora\typora-user-images\image-20260203123613438.png" alt="image-20260203123613438" style="zoom:67%;" />
+<img src="./doc/img_4.png" alt="img_4" style="zoom:80%;" />
 
 ## 3. Save path settings
 
 save path to:...
 
-<img src="C:\Users\14780\AppData\Roaming\Typora\typora-user-images\image-20260203204305730.png" alt="image-20260203204305730" style="zoom:67%;" />
+<img src="./doc/img_3.png" alt="img_3" style="zoom:80%;" />
 
 
 
@@ -49,4 +49,4 @@ a few seconds later...
 
 running result: 
 
-![image-20260203204703273](C:\Users\14780\AppData\Roaming\Typora\typora-user-images\image-20260203204703273.png)
+![img_2](./doc/img_2.png)
